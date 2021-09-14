@@ -24,6 +24,7 @@ def reset():
     msg.set("")
 
 root = Tk()
+#root 
 
 #Initialize the window
 root.geometry('600x400')
